@@ -2,7 +2,7 @@
 
 ## Description
 
-This project evolved from a need to share to work with the world, especially the parts that would like to compensate me for doing it.  
+This project evolved from a need to share my work with the world, especially the parts that would like to compensate me for doing said work.  
 
 ## License
 
